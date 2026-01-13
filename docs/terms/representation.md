@@ -1,7 +1,4 @@
-# The term `Representation`
-Terms that we randomly run into while studying Artificial Intelligence.
-
-## Representation
+# Representation
 
 In Machine Learning (ML) and Deep Learning (DL), **representation** is the way data is "packaged" or "translated" into a numerical format that a computer can understand and process.
 
