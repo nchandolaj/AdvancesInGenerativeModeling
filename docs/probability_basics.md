@@ -90,5 +90,41 @@ When you see probability formulas, you’ll notice a specific way of writing thi
 
 ## 3. Distributions
 
+In probability, a **distribution** is a mathematical function that describes all the possible values a random variable can take and how likely each of those values is.
+
+If a **random variable** is the rule for assigning numbers to events, the **distribution** is the "master map" that shows the pattern of those numbers.
+
+### How Distributions Work
+Think of a distribution as a summary of an experiment. Instead of just looking at one outcome, you look at the **entire landscape** of what could happen.
+
+For a single six-sided die, the distribution is "Uniform." Every outcome ($1, 2, 3, 4, 5, 6$) has an equal probability of $1/6$. If you graphed this, it would look like six bars of the exact same height.
+
+### Discrete vs. Continuous Distributions
+Just like random variables, distributions are divided into two main categories:
+
+#### **Discrete Distributions**
+These are used for things you can count. They are often represented by a **Probability Mass Function (PMF)**, which shows the exact probability for each distinct value.
+* **Binomial Distribution:** Used for "Yes/No" scenarios (e.g., "If I flip 10 coins, what's the chance I get exactly 7 heads?").
+* **Poisson Distribution:** Used for counting events over time (e.g., "How many customers will walk into this store in the next hour?").
+
+#### **Continuous Distributions**
+These are used for things you measure. They are represented by a **Probability Density Function (PDF)**. Because there are infinite possibilities, we look at the "density" or area under a curve.
+* **Normal Distribution (The Bell Curve):** The most famous distribution. It describes things like height, IQ scores, or measurement errors, where most values cluster around the average.
+* **Uniform Distribution:** Where every value in a specific range (like any number between 0 and 1) is equally likely.
+
+### Key Characteristics
+To describe a distribution, statisticians look at a few "summary" numbers:
+* **Mean ($\mu$):** The center or average value of the distribution.
+* **Variance ($\sigma^2$):** How spread out the values are from the center.
+* **Skewness:** Whether the distribution is symmetrical or "leans" to one side.
+
+### Summary Comparison
+
+| Feature | Discrete Distribution | Continuous Distribution |
+| :--- | :--- | :--- |
+| **Visual** | Bar Chart | Smooth Curve |
+| **Math Tool** | Summation ($\sum$) | Integration ($\int$) |
+| **Common Example** | Rolling a pair of dice | The height of adult men |
+| **Probability of a single point** | Can be greater than 0 | Always 0 (must use a range) |
 
 
