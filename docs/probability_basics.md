@@ -2,8 +2,41 @@
 
 *Focus: Probability, Random Variables, Distributions*
 
-## Probability
+## 1. Probability
 
+At its simplest, **probability** is a mathematical tool used to measure how likely an event is to occur. It allows us to turn uncertainty—like the flip of a coin or a weather forecast—into a precise number that we can use to make decisions.
+
+## 1. The Probability Scale
+Probability is always measured on a scale from **0 to 1** (or 0% to 100%).
+
+* **0 (Impossible):** The event will definitely not happen (e.g., rolling a 7 on a standard six-sided die).
+* **0.5 (Even Chance):** The event is just as likely to happen as not (e.g., a fair coin landing on "Heads").
+* **1 (Certain):** The event is guaranteed to happen (e.g., the sun rising tomorrow).
+
+## 2. The Basic Formula
+If all possible outcomes are equally likely, you can calculate probability using this simple ratio:
+
+$$P(\text{Event}) = \frac{\text{Number of favorable outcomes}}{\text{Total number of possible outcomes}}$$
+
+### **Example: Rolling a Die**
+What is the probability of rolling an **even number** (2, 4, or 6) on a standard die?
+* **Favorable outcomes:** 3 (the numbers 2, 4, and 6)
+* **Total outcomes:** 6 (the numbers 1, 2, 3, 4, 5, and 6)
+* **Calculation:** $3 / 6 = 0.5$ or **50%**.
+
+## 3. Key Vocabulary
+To talk about probability like a pro, it helps to know these terms:
+* **Experiment:** Any process with an uncertain result (e.g., spinning a wheel).
+* **Outcome:** A single possible result of an experiment (e.g., the wheel landing on "Red").
+* **Sample Space:** The complete set of *all* possible outcomes.
+* **Event:** A specific outcome or collection of outcomes you are looking for.
+
+## 4. Why Does It Matter?
+Probability isn't just for math class; it's the engine behind much of our modern world:
+* **Insurance:** Companies calculate the probability of accidents to decide how much to charge for premiums.
+* **Weather:** A "30% chance of rain" is a probability based on historical data.
+* **Medicine:** Doctors use probability to determine the success rate of a new treatment or the likelihood of a side effect.
+* **Technology:** AI and machine learning (like the system I'm running on) use probability to predict which words or images you are most likely looking for.
 
 ---
 
