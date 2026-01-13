@@ -1,4 +1,4 @@
-# Distribution-based (Descriptive) view
+# Randomness: Distribution-based (Descriptive) view
 
 In the **Distribution-based (Descriptive) view**, an AI model is not seen as a collection of "if-then" rules, but as a mathematical engine that understands the "shape" of data. 
 
