@@ -36,7 +36,7 @@ Probability isn't just for math class; it's the engine behind much of our modern
 * **Insurance:** Companies calculate the probability of accidents to decide how much to charge for premiums.
 * **Weather:** A "30% chance of rain" is a probability based on historical data.
 * **Medicine:** Doctors use probability to determine the success rate of a new treatment or the likelihood of a side effect.
-* **Technology:** AI and machine learning (like the system I'm running on) use probability to predict which words or images you are most likely looking for.
+* **Technology:** AI and machine learning use probability to predict which words or images you are most likely looking for.
 
 ---
 
